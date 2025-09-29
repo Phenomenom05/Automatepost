@@ -30,8 +30,8 @@ Automate interaction with [Claude AI Artifacts](https://claude.ai/public/artifac
 1. Clone this repository:
 
 bash
-git clone https://github.com/yourusername/claude-playwright-automation.git
-cd claude-playwright-automation
+git clone https://github.com/Phenomenom05/Automatepost.git
+
 
 2. Install Dependencies: 
 pip install playwright
@@ -40,6 +40,6 @@ pip install playwright
    playwright install chromium
 USAGE:
 After installing all the dependencies, run :
-  python claude_playwright_persistent.py
+  python claude_iframe_flow_playwright.py
 
 
